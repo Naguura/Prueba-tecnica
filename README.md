@@ -1,24 +1,21 @@
 # space-x-last-launches
 
-## Project setup
+## Project demo
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
+##  Pasos : Estimación
 ```
-yarn serve
+Leer instrucciones -> 5 min
 ```
-
-### Compiles and minifies for production
+Elección de prueba y framework -> 10 min
 ```
-yarn build
+instalacion de vuecli, vuetify y agregado axios -> 20 min
 ```
-
-### Lints and fixes files
+Escribir el codigo en vuejs -> 60 min
 ```
-yarn lint
+Agregado de estilos -> 60 min
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
