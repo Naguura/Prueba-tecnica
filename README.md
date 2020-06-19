@@ -1,5 +1,8 @@
 # space-x-last-launches
-
+##  Elección
+```
+Elegí la tarea de hacer una pequeña app que tomara datos de la API de space-x porque era la tarea que entendia mas y sabia que podia completar con mayor facilidad
+``
 ##  Pasos : Estimación
 ```
 Leer instrucciones -> 5 min
